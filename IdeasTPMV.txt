@@ -1,0 +1,24 @@
+1 - pc & vr
+Quake pollos
+endless
+plataformas para saltar
+enemigos que disparar.
+nivel generado proceduralmente
+
+2 - pc & vr
+drive by shooter
+el jugador no maneja
+endless
+nivel generado proceduralmente
+
+3 - pc & vr/ celular & vr cel
+nave en el espacio
+dispara constantemente, sin input del jugador
+jugador solo gira la nave
+
+4 - pc & vr
+matrix
+bullet time bullet hell
+en la cima de un edificio
+contador de puntos
+se consiguen armas al matar enemigos
